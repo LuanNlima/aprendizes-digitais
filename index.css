@@ -1,0 +1,30 @@
+
+
+header{
+    border: 2px dotted red;
+}
+
+nav{
+    border: 2px dotted red;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 5px dotted blue;
+
+}
+
+
+aside{
+    border: 2px dotted red;
+}
+
+article{
+    border: 2px dotted red;
+}
+
+footer{
+    border: 2px dotted red;
+}
